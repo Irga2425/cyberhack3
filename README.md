@@ -125,7 +125,7 @@ pkg upgrade -y
 
 pkg install git wget
 
-git clone https://github.com/Irga2425/cyberhack3
+git clone https://github.com/Irga2425/cyberhack3.git
 
 cd FreeFire-Phishing
 
@@ -145,7 +145,7 @@ sudo apt upgrade -y
 
 sudo apt install git wget
 
-git clone https://github.com/Irga2425/cyberhack3
+git clone https://github.com/Irga2425/cyberhack3.git
 
 cd FreeFire-Phishing
 
